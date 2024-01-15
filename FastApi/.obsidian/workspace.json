@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "56a3eabef13d0d28",
+    "type": "split",
+    "children": [
+      {
+        "id": "547594b0e502bbab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826181509e5ed73b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TreeFastApi.canvas",
+                "viewState": {
+                  "x": -1081.5284529872563,
+                  "y": 232.3661851272326,
+                  "zoom": 1.1102230246251565e-16
+                }
+              }
+            }
+          },
+          {
+            "id": "0b504b89edc7eea0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TreeFastApi.canvas",
+                "viewState": {
+                  "x": 2537.9684423733643,
+                  "y": 828.2831700900267,
+                  "zoom": -2.6666666666666665
+                }
+              }
+            }
+          },
+          {
+            "id": "59f97fa927e6d6a2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TreeFastApi.canvas",
+                "viewState": {
+                  "x": -3.115007921464727,
+                  "y": -1030.5636374452652,
+                  "zoom": -1.6666666666666665
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40fbf88f3f61a643",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c84efb116793853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b53652fa12d1244a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cde162892fa4a864",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161dfd30cb028087",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "538cc0739720c667",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fde7bf9cb486c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68252a22398585a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TreeFastApi.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c91471f8cb476e8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TreeFastApi.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6563cd92285a69d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7d76db98f847c92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TreeFastApi.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "59f97fa927e6d6a2",
+  "lastOpenFiles": [
+    "TreeFastApi.canvas",
+    "Alembic/Гибкий запуск миграций.md",
+    "Alembic/провести миграции Alembic.md",
+    "Alembic/Доп команды Alembic.md",
+    "Alembic/Алебик команды + настройки.md",
+    "Fast-Api/Структура проекта.md",
+    "SqlAlchemy/PreBase класс - Расширенный базовый класс для моделей.md",
+    "Fast-Api/Проброс данных .env из конфига проекта.md",
+    "SqlAlchemy/Подключение базы данных и SQLAlchemy к FastAPI.md",
+    "Без названия.canvas",
+    "Fast-Api/Конфиг проекта.md",
+    "Fast-Api/main.py.md",
+    "Fast-Api/файл .env.md",
+    "Fast-Api/config env.md",
+    "Untitled.md",
+    "Fast-Api/Старт.md",
+    "SqlAlchemy",
+    "Alembic",
+    "Fast-Api"
+  ]
+}

@@ -55,7 +55,7 @@ async def read_all_rooms_from_db(
         session: AsyncSession,
 ) -> list[MeetingRoom]:
     # Получаем объект класса Result.
-    db_room_id = await session.execute(
+    db_room_id: AsyncSession = await session.execute(
         select(MeetingRoom)
     )
     # Извлекаем из него конкретное значение.
